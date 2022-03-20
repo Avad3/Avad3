@@ -8,4 +8,4 @@ I'm currently working on a few projects...
 
 Join my Discord [here](discord.gg/msmmgf3tet), I post most of my updates on there so I would recommend joining.
 
-[![Avad3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avad3&show_icons=true&theme=github_dark&locale=en&border_radius=50)](https://github.com/anuraghazra/github-readme-stats)
+[![Avad3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avad3&show_icons=true&theme=github_dark&locale=en&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
