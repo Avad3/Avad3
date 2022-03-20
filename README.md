@@ -7,3 +7,5 @@ I'm currently working on a few projects...
 [Bookmarklets](https://github.com/Avad3/bookmarklets), A collection of bookmarklets that are intended to bypass school web filters.
 
 Join my Discord [here](discord.gg/msmmgf3tet), I post most of my updates on there so I would recommend joining.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avad3)](https://github.com/anuraghazra/github-readme-stats)
